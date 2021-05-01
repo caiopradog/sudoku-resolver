@@ -1,7 +1,5 @@
 dist/
 build/
 venv/
-minesweeper.spec
-minesweeper.spec
 .idea
 __pycache__/
